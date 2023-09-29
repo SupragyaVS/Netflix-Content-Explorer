@@ -4,7 +4,7 @@
 This project provides a comprehensive analysis of Netflix data using Python, Excel, and Tableau.   
 The dataset consists of Netflix titles, including their production countries, dates added, descriptions, durations,  genres, and ratings etc.    
 The project focuses on data cleaning, analysis, and visualization to gain insights into Netflix content.  
-__Link to the final Dashboard__ : https://public.tableau.com/views/Netflix_Supragya/Netflix?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+__Link to the final Dashboard__ : https://public.tableau.com/app/profile/supragya.vikram.singh/viz/Netflix_Supragya/Netflix?publish=yes
  
 
 # Data Cleaning    
