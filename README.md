@@ -1,4 +1,4 @@
-# Netflix-Dashboard
+# Netflix Content Explorer
 
 # Overview   
 This project provides a comprehensive analysis of Netflix data using Python, Excel, and Tableau.   
